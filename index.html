@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Notes Manager</title>
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="header">
+      <h1>📝 Notes</h1>
+      <button id="toggleMode">🌙</button>
+    </div>
+
+    <div class="input-group">
+      <input type="text" id="noteInput" placeholder="Write a note..." />
+      <button onclick="addNote()">Add</button>
+    </div>
+
+    <ul id="notesList"></ul>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
