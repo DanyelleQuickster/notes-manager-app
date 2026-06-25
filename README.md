@@ -29,7 +29,7 @@ A modern and aesthetic CRUD notes application with **dark mode toggle** and **gl
 
 ## 🌍 Live Demo
 
-[(Add your deployed link here later)](https://danyellequickster.github.io/notes-manager-app/)
+(https://danyellequickster.github.io/notes-manager-app/)
 
 ## 📌 Future Improvements
 
